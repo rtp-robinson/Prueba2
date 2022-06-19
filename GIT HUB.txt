@@ -1,0 +1,19 @@
+git status
+
+git add .
+
+git commit -m "first name"
+
+git remote add origin https://github.com/rtp-robinson/ticutp.git
+
+git push origin master
+
+
+
+
+git pull origin master
+
+
+informacion del archivo : git log (nombre del archivo con extencion)
+
+
